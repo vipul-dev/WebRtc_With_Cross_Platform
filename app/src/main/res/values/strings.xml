@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecordifiedWebRtc</string>
+    <string name="serverAddress">http://192.168.1.39:8080</string>
+</resources>
